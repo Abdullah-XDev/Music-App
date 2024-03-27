@@ -1,4 +1,4 @@
-# nota
+# Nota
 
 A new Flutter project.
 <img width="354" alt="Main" src="https://github.com/Abdullah-XDev/Dice-APP/assets/163126808/c0e7a271-5774-46a2-b6c1-b2fdf41772f8">
