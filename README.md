@@ -1,6 +1,9 @@
 # nota
 
 A new Flutter project.
+<img width="354" alt="Main" src="https://github.com/Abdullah-XDev/Dice-APP/assets/163126808/c0e7a271-5774-46a2-b6c1-b2fdf41772f8">
+<img width="354" alt="SongPlay" src="https://github.com/Abdullah-XDev/Dice-APP/assets/163126808/d2fa4818-53f9-451e-862d-e56628153b9a">
+<img width="354" alt="ListPlay" src="https://github.com/Abdullah-XDev/Dice-APP/assets/163126808/da993788-245e-4707-9928-cd6d4b14aae0">
 
 ## Getting Started
 
